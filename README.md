@@ -1,6 +1,5 @@
-# Project 6 - Twitter
-
-Time spent: 8 hours spent in total
+# Project 3 - Twitter
+Twitter is a basic twitter app to read your tweets.
 
 ## Overview
 In Unit's 1 & 2, you fetched movie data from the Movie Database API and rendered it in a scrolling list that allowed users to tap a movie to get more details.
@@ -9,7 +8,33 @@ In this unit, we'll be building the first part of a Twitter app that allows user
 We'll use many of the same concepts you learned in Flix, making network requests and rendering data in table views.
 But as you can imagine, we wouldn't want just anyone to log into our Twitter account, so this time we'll need to add a login flow that authenticates with Twitter to prove we are indeed the user we say we are.
 
-## User Stories
+**Twitter** 
+Time spent: **8** hours spent in total
+
+## Twitter - Part 1
+### User Stories
+
+The following **required** functionality is completed:
+
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can log out. (1pt)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+
+The following **bonus** features are implemented:
+
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Twitter - Part 2
+### User Stories
 
 The following **required** stories are completed:
 
