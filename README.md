@@ -1,6 +1,7 @@
 # Project 3 - Twitter
 Twitter is a basic twitter app to read your tweets.
 
+
 ## Overview
 In Unit's 1 & 2, you fetched movie data from the Movie Database API and rendered it in a scrolling list that allowed users to tap a movie to get more details.
 One thing to note is that your user did not have to sign in because they were not accessing any personal data.
